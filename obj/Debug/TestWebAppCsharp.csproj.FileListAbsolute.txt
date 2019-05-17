@@ -1,0 +1,4 @@
+D:\Project\TestWebAppCsharp\TestWebAppCsharp\bin\TestWebAppCsharp.dll
+D:\Project\TestWebAppCsharp\TestWebAppCsharp\bin\TestWebAppCsharp.pdb
+D:\Project\TestWebAppCsharp\TestWebAppCsharp\obj\Debug\TestWebAppCsharp.dll
+D:\Project\TestWebAppCsharp\TestWebAppCsharp\obj\Debug\TestWebAppCsharp.pdb
