@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Web Developer Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebAppCsharp", "DotNetDemo\TestWebAppCsharp.csproj", "{F806E7FE-C8F8-4156-9B0B-CA4084D79828}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebAppCsharp", "TestWebAppCsharp.csproj", "{F806E7FE-C8F8-4156-9B0B-CA4084D79828}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
